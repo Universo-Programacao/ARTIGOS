@@ -1,10 +1,7 @@
 ## Extensões para facilidar o desenolvimento com Visual Studio Code
 
-</br>
 
-### Hello World, </br> Neste artigo vou compartilhar com vocês algumas das extensões que uso no meu dia. Bora ver?\
-
-</br>
+### Hello World 🚀 </br> Neste artigo vou compartilhar com vocês algumas das extensões que uso no meu dia. Bora ver?
 
 ### Mas primeiro que tal de Visual Studio Code é esse ?
 
